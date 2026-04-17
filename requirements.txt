@@ -1,0 +1,4 @@
+pybullet
+opencv-python
+numpy
+matplotlib
