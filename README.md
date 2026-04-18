@@ -55,7 +55,7 @@ husky_nav_assignment/
 
 ```bash
 git clone https://github.com/sachinsuvarna15/husky-autonomous-navigation.git
-cd ~/husky_nav_assignment
+cd ~/husky-autonomous-navigation
 pip install -r requirements.txt
 ```
 
