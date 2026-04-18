@@ -72,7 +72,7 @@ source venv/bin/activate
 
 ```bash
 pip install -r requirements.txt
-python main.py
+python main.py or python3 main.py (both command can run in venv but without venv only python3 main.py will run)
 ```
 
 ---
