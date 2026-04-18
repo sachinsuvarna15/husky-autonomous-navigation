@@ -54,10 +54,19 @@ husky_nav_assignment/
 ## 🚀 Setup Instructions
 
 ```bash
+git clone https://github.com/sachinsuvarna15/husky-autonomous-navigation.git
 cd ~/husky_nav_assignment
 pip install -r requirements.txt
 ```
 
+---
+
+## Create and activate virtual environment (Recommended)
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 ---
 
 ## ▶️ Run Instructions
